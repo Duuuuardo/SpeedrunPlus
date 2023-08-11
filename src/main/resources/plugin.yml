@@ -1,0 +1,10 @@
+name: MHResources
+main: com.duuuuardo.mhresources.Main
+version: "${version}"
+api-version: "${apiVersion}"
+author: duuuuardo
+commands:
+  start:
+    description: Iniciar o manhunt.
+    usage: /start
+    permission: coquerovoceerrou.start
